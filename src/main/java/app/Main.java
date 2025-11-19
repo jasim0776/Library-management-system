@@ -31,14 +31,13 @@ public class Main {
 
             switch (choice) {
                 case 1: {
-                    // STEP 1: call displayAllBooks here
+                    
                     librarySystem.displayAllBooks();
                     break;
                 }
 
-                // we will fill 2–7 next, one by one
                 case 2: {
-                    // STEP 2: call displayAllMembers here
+
                     librarySystem.displayAllMembers();
                     break;
                 }
